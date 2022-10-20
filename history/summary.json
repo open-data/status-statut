@@ -58,19 +58,19 @@
     "url": "https://search.open.canada.ca/grants",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "search-v2",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 279,
-    "timeDay": 279,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "status": "up",
+    "uptime": "93.16%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "93.16%",
+    "uptimeYear": "93.16%",
+    "time": 210,
+    "timeDay": 210,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-10-20": 0
+      "2022-10-20": 22
     }
   }
 ]
