@@ -19,10 +19,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Open Government Portal / Portail du gouvernement ouvert"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data.
   navbar:
     - title: Status
-      href: /
+      href: https://open-data.github.io/status-statut/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
