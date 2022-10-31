@@ -11,6 +11,12 @@ sites:
     url: https://search.open.canada.ca/en/od
   - name: Search v2
     url: https://search.open.canada.ca/grants
+  - name: CKAN SQL API
+    url: https://open.canada.ca/data/en/api/3/action/datastore_search_sql?sql=SELECT%20%27uptime%27
+  - name: NGINX Static Files
+    url: https://open.canada.ca/GCWeb/assets/sig-blk-en.svg 
+  - name: Open by Default
+    url: https://open.canada.ca/ckan/en/dataset 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
