@@ -118,19 +118,19 @@
     "url": "https://open.canada.ca/ckan/en/dataset",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "open-by-default",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 163,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
+    "time": 160,
+    "timeDay": 160,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 25
     }
   }
 ]
