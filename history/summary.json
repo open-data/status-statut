@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 338,
     "timeDay": 380,
-    "timeWeek": 301,
+    "timeWeek": 307,
     "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 598,
     "timeDay": 529,
-    "timeWeek": 576,
+    "timeWeek": 589,
     "timeMonth": 598,
     "timeYear": 598,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "95.11%",
     "time": 834,
     "timeDay": 733,
-    "timeWeek": 865,
+    "timeWeek": 919,
     "timeMonth": 834,
     "timeYear": 834,
     "dailyMinutesDown": {
@@ -69,7 +69,7 @@
     "uptimeYear": "99.61%",
     "time": 227,
     "timeDay": 128,
-    "timeWeek": 226,
+    "timeWeek": 244,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -119,19 +119,19 @@
     "url": "https://open.canada.ca/ckan/en/dataset",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "open-by-default",
-    "status": "down",
-    "uptime": "97.83%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
-    "time": 197,
-    "timeDay": 247,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "status": "up",
+    "uptime": "97.73%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
+    "time": 240,
+    "timeDay": 332,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2022-11-03": 58,
+      "2022-11-03": 63,
       "2022-11-02": 40
     }
   }
