@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 316,
     "timeDay": 441,
     "timeWeek": 275,
     "timeMonth": 308,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2023-02-18": 6,
       "2023-01-26": 38
     }
   },
