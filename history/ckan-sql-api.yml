@@ -1,7 +1,7 @@
 url: https://open.canada.ca/data/en/api/3/action/datastore_search_sql?sql=SELECT%20%27uptime%27
 status: up
 code: 200
-responseTime: 82
-lastUpdated: 2023-04-16T23:07:12.453Z
+responseTime: 61
+lastUpdated: 2023-04-17T23:07:33.189Z
 startTime: Mon Oct 31 2022 19:16:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
