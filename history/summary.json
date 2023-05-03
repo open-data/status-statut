@@ -4,9 +4,9 @@
     "url": "https://open.canada.ca",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 466,
     "timeYear": 368,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-01-26": 38
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +37,7 @@
     "timeMonth": 570,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-02-17": 28,
       "2023-01-26": 38
     }
@@ -45,9 +47,9 @@
     "url": "https://search.open.canada.ca/en/od",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "search-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.61%",
@@ -57,6 +59,7 @@
     "timeMonth": 1196,
     "timeYear": 1264,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-04-25": 16,
       "2023-04-22": 17,
       "2023-03-25": 17,
@@ -70,9 +73,9 @@
     "url": "https://search.open.canada.ca/grants",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "search-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -82,6 +85,7 @@
     "timeMonth": 336,
     "timeYear": 603,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-03-25": 17,
       "2023-02-03": 19,
       "2023-01-14": 18,
@@ -102,9 +106,9 @@
     "url": "https://open.canada.ca/data/en/api/3/action/datastore_search_sql?sql=SELECT%20%27uptime%27",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan-sql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,16 +117,18 @@
     "timeWeek": 134,
     "timeMonth": 148,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-03": 0
+    }
   },
   {
     "name": "NGINX Static Files",
     "url": "https://open.canada.ca/GCWeb/assets/sig-blk-en.svg",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "nginx-static-files",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,7 +137,9 @@
     "timeWeek": 41,
     "timeMonth": 43,
     "timeYear": 45,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-03": 0
+    }
   },
   {
     "name": "Open by Default",
