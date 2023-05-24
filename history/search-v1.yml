@@ -1,7 +1,7 @@
 url: https://search.open.canada.ca/en/od
-status: up
-code: 200
-responseTime: 1214
-lastUpdated: 2023-05-24T15:22:58.692Z
+status: down
+code: 500
+responseTime: 392
+lastUpdated: 2023-05-24T16:30:44.042Z
 startTime: Thu Oct 20 2022 15:00:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
