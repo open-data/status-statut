@@ -24,11 +24,11 @@
     "url": "https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 598,
     "timeDay": 4901,
@@ -36,7 +36,7 @@
     "timeMonth": 856,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-06-10": 6,
+      "2023-06-10": 1,
       "2023-02-17": 28,
       "2023-01-26": 38
     }
