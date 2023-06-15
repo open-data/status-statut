@@ -24,18 +24,19 @@
     "url": "https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 596,
-    "timeDay": 527,
-    "timeWeek": 1498,
-    "timeMonth": 821,
-    "timeYear": 596,
+    "time": 594,
+    "timeDay": 291,
+    "timeWeek": 1353,
+    "timeMonth": 798,
+    "timeYear": 594,
     "dailyMinutesDown": {
+      "2023-06-15": 0,
       "2023-02-17": 28,
       "2023-01-26": 38
     }
@@ -104,18 +105,20 @@
     "url": "https://open.canada.ca/data/en/api/3/action/datastore_search_sql?sql=SELECT%20%27uptime%27",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan-sql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 165,
-    "timeWeek": 808,
-    "timeMonth": 292,
+    "timeDay": 109,
+    "timeWeek": 714,
+    "timeMonth": 285,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-15": 0
+    }
   },
   {
     "name": "NGINX Static Files",
