@@ -105,18 +105,19 @@
     "url": "https://open.canada.ca/data/en/api/3/action/datastore_search_sql?sql=SELECT%20%27uptime%27",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan-sql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 167,
-    "timeDay": 65,
-    "timeWeek": 100,
+    "timeDay": 171,
+    "timeWeek": 118,
     "timeMonth": 275,
     "timeYear": 167,
     "dailyMinutesDown": {
+      "2023-06-19": 0,
       "2023-06-15": 64
     }
   },
