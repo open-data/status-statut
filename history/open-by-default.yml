@@ -1,7 +1,7 @@
 url: https://open.canada.ca/ckan/en/dataset
-status: up
-code: 200
-responseTime: 145
-lastUpdated: 2023-06-30T23:07:48.690Z
+status: down
+code: 500
+responseTime: 223
+lastUpdated: 2023-07-01T20:34:37.676Z
 startTime: Mon Oct 31 2022 19:16:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
