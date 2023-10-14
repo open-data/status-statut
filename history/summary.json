@@ -6,9 +6,9 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 345,
     "timeDay": 225,
@@ -16,7 +16,7 @@
     "timeMonth": 271,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-10-14": 22,
+      "2023-10-14": 15,
       "2023-08-11": 25,
       "2023-01-26": 38
     }
@@ -26,19 +26,19 @@
     "url": "https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 592,
-    "timeDay": 499,
-    "timeWeek": 753,
-    "timeMonth": 730,
+    "timeDay": 548,
+    "timeWeek": 741,
+    "timeMonth": 727,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2023-10-14": 25,
+      "2023-10-14": 28,
       "2023-06-15": 64,
       "2023-02-17": 28,
       "2023-01-26": 38
@@ -51,9 +51,9 @@
     "slug": "search-v2",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 546,
     "timeDay": 462,
@@ -61,7 +61,7 @@
     "timeMonth": 573,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2023-10-14": 33,
+      "2023-10-14": 38,
       "2023-07-22": 28,
       "2023-05-12": 24,
       "2023-03-25": 17,
@@ -86,9 +86,9 @@
     "slug": "ckan-sql-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 152,
     "timeDay": 280,
@@ -96,7 +96,7 @@
     "timeMonth": 161,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-10-14": 26,
+      "2023-10-14": 17,
       "2023-06-15": 64
     }
   },
@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "nginx-static-files",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 46,
     "timeDay": 37,
     "timeWeek": 39,
     "timeMonth": 59,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2023-10-14": 25
+      "2023-10-14": 17
     }
   }
 ]
