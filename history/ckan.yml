@@ -1,7 +1,7 @@
 url: https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-26T01:36:47.534Z
+status: up
+code: 200
+responseTime: 663
+lastUpdated: 2023-10-26T02:04:58.058Z
 startTime: 2022-10-20T15:00:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
