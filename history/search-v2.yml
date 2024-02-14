@@ -1,7 +1,7 @@
 url: https://search.open.canada.ca/grants
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2024-02-14T15:48:56.494Z
+status: down
+code: 500
+responseTime: 390
+lastUpdated: 2024-02-14T16:10:26.661Z
 startTime: 2022-10-20T15:00:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
