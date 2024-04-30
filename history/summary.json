@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 318,
-    "timeDay": 227,
-    "timeWeek": 277,
-    "timeMonth": 262,
+    "timeDay": 265,
+    "timeWeek": 293,
+    "timeMonth": 267,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2024-03-15": 26,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 553,
-    "timeDay": 383,
-    "timeWeek": 435,
-    "timeMonth": 426,
+    "timeDay": 436,
+    "timeWeek": 457,
+    "timeMonth": 433,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2023-10-26": 28,
@@ -55,11 +55,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "99.63%",
-    "time": 703,
-    "timeDay": 429,
-    "timeWeek": 489,
-    "timeMonth": 737,
-    "timeYear": 713,
+    "time": 704,
+    "timeDay": 510,
+    "timeWeek": 520,
+    "timeMonth": 738,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2024-04-29": 17,
       "2024-04-22": 257,
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 130,
-    "timeDay": 69,
+    "timeDay": 73,
     "timeWeek": 80,
-    "timeMonth": 85,
+    "timeMonth": 86,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2023-10-26": 27,
@@ -108,33 +108,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 43,
-    "timeDay": 30,
-    "timeWeek": 40,
-    "timeMonth": 38,
+    "timeDay": 37,
+    "timeWeek": 42,
+    "timeMonth": 39,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2023-10-26": 27,
       "2023-10-14": 17
-    }
-  },
-  {
-    "name": "Test notifications",
-    "url": "https://design.canada.ca/images/social-media/twitter2.png",
-    "icon": "https://icons.duckduckgo.com/ip3/design.canada.ca.ico",
-    "slug": "test-notifications",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
-    "dailyMinutesDown": {
-      "2024-04-30": 86
     }
   }
 ]
