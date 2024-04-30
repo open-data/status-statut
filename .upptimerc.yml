@@ -14,7 +14,7 @@ sites:
   - name: NGINX Static Files
     url: https://open.canada.ca/GCWeb/assets/sig-blk-en.svg 
   - name: Test notifications
-    url: https://design.canada.ca/images/social-media/twitter.png
+    url: https://design.canada.ca/images/social-media/twitter1.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
