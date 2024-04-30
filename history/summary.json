@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 318,
-    "timeDay": 265,
-    "timeWeek": 293,
-    "timeMonth": 267,
+    "timeDay": 247,
+    "timeWeek": 280,
+    "timeMonth": 263,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2024-03-15": 26,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 553,
-    "timeDay": 436,
-    "timeWeek": 457,
-    "timeMonth": 433,
+    "timeDay": 419,
+    "timeWeek": 447,
+    "timeMonth": 430,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2023-10-26": 28,
@@ -56,10 +56,10 @@
     "uptimeMonth": "95.99%",
     "uptimeYear": "99.63%",
     "time": 704,
-    "timeDay": 510,
-    "timeWeek": 520,
-    "timeMonth": 738,
-    "timeYear": 714,
+    "timeDay": 473,
+    "timeWeek": 502,
+    "timeMonth": 736,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2024-04-29": 17,
       "2024-04-22": 257,
@@ -88,7 +88,7 @@
     "time": 130,
     "timeDay": 73,
     "timeWeek": 80,
-    "timeMonth": 86,
+    "timeMonth": 85,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2023-10-26": 27,
@@ -108,13 +108,33 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 43,
-    "timeDay": 37,
-    "timeWeek": 42,
-    "timeMonth": 39,
+    "timeDay": 34,
+    "timeWeek": 40,
+    "timeMonth": 38,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2023-10-26": 27,
       "2023-10-14": 17
+    }
+  },
+  {
+    "name": "Broken link to test slack integration",
+    "url": "https://design.canada.ca/images/social-media/twitter.png",
+    "icon": "https://icons.duckduckgo.com/ip3/design.canada.ca.ico",
+    "slug": "broken-link-to-test-slack-integration",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
+    "dailyMinutesDown": {
+      "2024-04-30": 0
     }
   }
 ]
