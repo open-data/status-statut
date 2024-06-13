@@ -7,8 +7,12 @@ sites:
     url: https://open.canada.ca
   - name: CKAN
     url: https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412
-  - name: Search v2
+  - name: Open Data Search
     url: https://search.open.canada.ca/opendata
+  - name: Contracts Search
+    url: https://search.open.canada.ca/contracts/
+  - name: ATI Search
+    url: https://open.canada.ca/en/search/ati
   - name: CKAN SQL API
     url: https://open.canada.ca/data/en/api/3/action/datastore_search_sql?sql=SELECT%20%27uptime%27
   - name: NGINX Static Files
