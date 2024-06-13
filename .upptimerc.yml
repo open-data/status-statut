@@ -11,8 +11,12 @@ sites:
     url: https://search.open.canada.ca/opendata
   - name: Contracts Search
     url: https://search.open.canada.ca/contracts/
+  - name: Contracts Search details
+    url: https://search.open.canada.ca/contracts/record/tbs-sct,Contracts-TBS-Historical-05257
   - name: ATI Search
     url: https://open.canada.ca/en/search/ati
+  - name: ATI Search details
+    url: https://open.canada.ca/en/search/ati/reference/0c9449bde99814b30ee8e467528b2fac
   - name: CKAN SQL API
     url: https://open.canada.ca/data/en/api/3/action/datastore_search_sql?sql=SELECT%20%27uptime%27
   - name: NGINX Static Files
