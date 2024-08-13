@@ -119,18 +119,20 @@
     "url": "https://open.canada.ca/en/search/ati/reference/0c9449bde99814b30ee8e467528b2fac",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search-details",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 573,
-    "timeWeek": 332,
-    "timeMonth": 291,
-    "timeYear": 300,
-    "dailyMinutesDown": {}
+    "time": 303,
+    "timeDay": 518,
+    "timeWeek": 348,
+    "timeMonth": 296,
+    "timeYear": 303,
+    "dailyMinutesDown": {
+      "2024-08-13": 0
+    }
   },
   {
     "name": "CKAN SQL API",
@@ -144,7 +146,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 128,
+    "timeDay": 218,
     "timeWeek": 94,
     "timeMonth": 87,
     "timeYear": 99,
