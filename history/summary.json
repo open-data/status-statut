@@ -119,19 +119,19 @@
     "url": "https://open.canada.ca/en/search/ati/reference/0c9449bde99814b30ee8e467528b2fac",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search-details",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 518,
-    "timeWeek": 348,
-    "timeMonth": 296,
-    "timeYear": 303,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 299,
+    "timeDay": 356,
+    "timeWeek": 313,
+    "timeMonth": 288,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-08-13": 0
+      "2024-08-13": 15
     }
   },
   {
