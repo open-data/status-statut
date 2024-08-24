@@ -65,36 +65,40 @@
     "url": "https://search.open.canada.ca/contracts/",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "contracts-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 251,
-    "timeWeek": 247,
-    "timeMonth": 233,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "time": 224,
+    "timeDay": 148,
+    "timeWeek": 222,
+    "timeMonth": 227,
+    "timeYear": 224,
+    "dailyMinutesDown": {
+      "2024-08-24": 0
+    }
   },
   {
     "name": "Contracts Search details",
     "url": "https://search.open.canada.ca/contracts/record/tbs-sct,Contracts-TBS-Historical-05257",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "contracts-search-details",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 71,
-    "timeWeek": 84,
-    "timeMonth": 84,
+    "timeDay": 58,
+    "timeWeek": 79,
+    "timeMonth": 83,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 0
+    }
   },
   {
     "name": "ATI Search",
