@@ -47,37 +47,39 @@
     "url": "https://search.open.canada.ca/opendata",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "open-data-search",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 280,
-    "timeWeek": 665,
-    "timeMonth": 715,
-    "timeYear": 571,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Contracts Search",
-    "url": "https://search.open.canada.ca/contracts/",
-    "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
-    "slug": "contracts-search",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 148,
-    "timeWeek": 222,
-    "timeMonth": 227,
-    "timeYear": 224,
+    "time": 566,
+    "timeDay": 253,
+    "timeWeek": 610,
+    "timeMonth": 699,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2024-08-24": 0
+    }
+  },
+  {
+    "name": "Contracts Search",
+    "url": "https://search.open.canada.ca/contracts/",
+    "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
+    "slug": "contracts-search",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 223,
+    "timeDay": 145,
+    "timeWeek": 213,
+    "timeMonth": 224,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2024-08-24": 14
     }
   },
   {
@@ -86,18 +88,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "contracts-search-details",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 77,
     "timeDay": 58,
     "timeWeek": 79,
     "timeMonth": 83,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-24": 14
     }
   },
   {
