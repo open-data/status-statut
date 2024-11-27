@@ -6,17 +6,16 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 281,
     "timeDay": 340,
     "timeWeek": 330,
     "timeMonth": 297,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-11-26": 13,
       "2024-03-15": 26
     }
   },
@@ -27,18 +26,16 @@
     "slug": "ckan",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
     "timeDay": 390,
     "timeWeek": 421,
     "timeMonth": 398,
     "timeYear": 410,
-    "dailyMinutesDown": {
-      "2024-11-26": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Open Data Search",
@@ -134,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 118,
     "timeWeek": 132,
     "timeMonth": 112,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2024-11-26": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ATI Search details",
@@ -154,18 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search-details",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 360,
     "timeDay": 302,
     "timeWeek": 375,
     "timeMonth": 345,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-11-26": 13,
       "2024-11-13": 18,
       "2024-08-13": 15
     }
@@ -177,9 +171,9 @@
     "slug": "ckan-sql-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 91,
     "timeDay": 84,
@@ -187,7 +181,6 @@
     "timeMonth": 63,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2024-11-26": 13,
       "2024-10-21": 29,
       "2024-09-25": 23,
       "2024-09-20": 18,
@@ -203,18 +196,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "nginx-static-files",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
     "timeDay": 53,
     "timeWeek": 45,
     "timeMonth": 37,
     "timeYear": 37,
-    "dailyMinutesDown": {
-      "2024-11-26": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
