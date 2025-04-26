@@ -196,9 +196,9 @@
     "slug": "ati-search",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 166,
     "timeDay": 3206,
@@ -206,7 +206,6 @@
     "timeMonth": 498,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-04-26": 6,
       "2025-02-14": 43,
       "2025-02-04": 19,
       "2024-11-27": 68
@@ -246,14 +245,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.42%",
+    "uptimeYear": "77.41%",
     "time": 110,
     "timeDay": 35,
     "timeWeek": 79,
     "timeMonth": 89,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-04-26": 1253,
+      "2025-04-26": 1310,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -370,9 +369,9 @@
     "url": "https://open.canada.ca/GCWeb/assets/sig-blk-en.svg",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "nginx-static-files",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -382,6 +381,7 @@
     "timeMonth": 42,
     "timeYear": 37,
     "dailyMinutesDown": {
+      "2025-04-26": 0,
       "2025-02-14": 41,
       "2024-11-27": 68
     }
