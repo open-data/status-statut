@@ -1,7 +1,7 @@
 url: https://search.open.canada.ca/contracts/record/tbs-sct,Contracts-TBS-Historical-05257
-status: down
-code: 500
-responseTime: 169
-lastUpdated: 2025-05-20T12:44:02.627Z
+status: up
+code: 200
+responseTime: 75
+lastUpdated: 2025-05-20T13:20:15.945Z
 startTime: 2024-06-13T18:02:54.104Z
 generator: Upptime <https://github.com/upptime/upptime>
