@@ -1,7 +1,7 @@
 url: https://search.open.canada.ca/opendata
-status: down
-code: 500
-responseTime: 390
-lastUpdated: 2025-09-08T05:12:25.970Z
+status: up
+code: 200
+responseTime: 1363
+lastUpdated: 2025-09-08T05:30:53.666Z
 startTime: 2024-06-13T17:01:19.588Z
 generator: Upptime <https://github.com/upptime/upptime>
