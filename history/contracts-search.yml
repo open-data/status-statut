@@ -1,7 +1,7 @@
 url: https://search.open.canada.ca/contracts/
-status: down
-code: 500
-responseTime: 49
-lastUpdated: 2025-09-08T04:55:32.713Z
+status: up
+code: 200
+responseTime: 116
+lastUpdated: 2025-09-08T05:30:55.849Z
 startTime: 2024-06-13T17:01:20.827Z
 generator: Upptime <https://github.com/upptime/upptime>
