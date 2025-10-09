@@ -66,13 +66,13 @@
     "url": "https://search.open.canada.ca/opendata",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "open-data-search",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "97.82%",
+    "uptimeDay": "97.81%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.60%",
-    "time": 2571,
+    "time": 2574,
     "timeDay": 671,
     "timeWeek": 5210,
     "timeMonth": 6670,
@@ -136,8 +136,7 @@
       "2024-11-24": 22,
       "2024-11-16": 26,
       "2024-11-12": 68,
-      "2024-11-02": 15,
-      "2024-10-13": 22
+      "2024-11-02": 15
     }
   },
   {
@@ -310,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2025-10-09": 534,
+      "2025-10-09": 543,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -493,7 +492,7 @@
     "timeMonth": 0,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-10-09": 534,
+      "2025-10-09": 543,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -677,7 +676,7 @@
     "timeMonth": 168,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-10-09": 534,
+      "2025-10-09": 543,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
