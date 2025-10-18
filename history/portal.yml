@@ -1,7 +1,7 @@
 url: https://open.canada.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-18T14:07:13.871Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2025-10-18T14:24:55.551Z
 startTime: 2022-10-20T15:00:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
