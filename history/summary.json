@@ -11,9 +11,9 @@
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.09%",
     "time": 322,
-    "timeDay": 353,
-    "timeWeek": 387,
-    "timeMonth": 337,
+    "timeDay": 228,
+    "timeWeek": 323,
+    "timeMonth": 338,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2026-05-21": 109,
@@ -26,8 +26,7 @@
       "2025-10-18": 18,
       "2025-05-26": 683,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 320
+      "2025-05-24": 1440
     }
   },
   {
@@ -41,10 +40,10 @@
     "uptimeWeek": "92.71%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.05%",
-    "time": 485,
-    "timeDay": 617,
-    "timeWeek": 662,
-    "timeMonth": 592,
+    "time": 486,
+    "timeDay": 521,
+    "timeWeek": 604,
+    "timeMonth": 593,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2026-05-21": 109,
@@ -61,8 +60,7 @@
       "2025-06-12": 34,
       "2025-05-26": 683,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 320
+      "2025-05-24": 1440
     }
   },
   {
@@ -72,15 +70,15 @@
     "slug": "open-data-search",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "93.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "99.21%",
     "time": 5548,
-    "timeDay": 10725,
-    "timeWeek": 8871,
-    "timeMonth": 8906,
-    "timeYear": 6563,
+    "timeDay": 591,
+    "timeWeek": 6123,
+    "timeMonth": 8590,
+    "timeYear": 6564,
     "dailyMinutesDown": {
       "2026-05-21": 87,
       "2026-05-05": 406,
@@ -181,9 +179,9 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "98.82%",
     "time": 2369,
-    "timeDay": 27282,
-    "timeWeek": 6074,
-    "timeMonth": 3419,
+    "timeDay": 354,
+    "timeWeek": 6026,
+    "timeMonth": 3424,
     "timeYear": 2642,
     "dailyMinutesDown": {
       "2026-05-05": 206,
@@ -243,8 +241,7 @@
       "2025-06-02": 23,
       "2025-05-26": 684,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 319
+      "2025-05-24": 1440
     }
   },
   {
@@ -259,9 +256,9 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "98.70%",
     "time": 1698,
-    "timeDay": 3703,
-    "timeWeek": 2636,
-    "timeMonth": 1895,
+    "timeDay": 211,
+    "timeWeek": 1763,
+    "timeMonth": 1898,
     "timeYear": 1958,
     "dailyMinutesDown": {
       "2026-05-05": 204,
@@ -318,8 +315,7 @@
       "2025-06-02": 23,
       "2025-05-26": 684,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 318
+      "2025-05-24": 1440
     }
   },
   {
@@ -328,18 +324,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search",
     "status": "down",
-    "uptime": "46.01%",
+    "uptime": "45.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1048,
+    "time": 1058,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-22": 155,
+      "2026-05-23": 132,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -702,8 +699,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -712,18 +708,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search-details",
     "status": "down",
-    "uptime": "46.00%",
+    "uptime": "45.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1273,
+    "time": 1284,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-22": 155,
+      "2026-05-23": 132,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -1086,8 +1083,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -1096,18 +1092,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan-sql-api",
     "status": "down",
-    "uptime": "63.59%",
+    "uptime": "63.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 229,
-    "timeDay": 154,
-    "timeWeek": 931,
+    "timeDay": 113,
+    "timeWeek": 896,
     "timeMonth": 324,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2026-05-22": 156,
+      "2026-05-23": 132,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -1470,8 +1467,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -1486,9 +1482,9 @@
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.12%",
     "time": 45,
-    "timeDay": 133,
-    "timeWeek": 161,
-    "timeMonth": 117,
+    "timeDay": 82,
+    "timeWeek": 131,
+    "timeMonth": 119,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2026-05-21": 111,
@@ -1502,8 +1498,7 @@
       "2025-10-23": 26,
       "2025-05-26": 673,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 316
+      "2025-05-24": 1440
     }
   }
 ]
