@@ -4,16 +4,16 @@
     "url": "https://open.canada.ca",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "99.83%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "99.82%",
     "time": 322,
-    "timeDay": 534,
-    "timeWeek": 375,
-    "timeMonth": 365,
+    "timeDay": 368,
+    "timeWeek": 353,
+    "timeMonth": 360,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2025-10-18": 18,
@@ -24,7 +24,7 @@
       "2026-05-16": 19,
       "2026-05-21": 109,
       "2026-05-20": 296,
-      "2026-05-26": 1
+      "2026-05-26": 82
     }
   },
   {
@@ -32,17 +32,17 @@
     "url": "https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "99.78%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "99.77%",
     "time": 489,
-    "timeDay": 676,
-    "timeWeek": 750,
-    "timeMonth": 646,
-    "timeYear": 467,
+    "timeDay": 622,
+    "timeWeek": 727,
+    "timeMonth": 643,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2025-06-12": 34,
       "2025-07-07": 35,
@@ -56,7 +56,7 @@
       "2026-05-16": 19,
       "2026-05-21": 109,
       "2026-05-20": 296,
-      "2026-05-26": 1
+      "2026-05-26": 82
     }
   },
   {
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 1281,
+      "2026-05-26": 1364,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -713,7 +713,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 1281,
+      "2026-05-26": 1364,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1097,7 +1097,7 @@
     "timeMonth": 362,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-05-26": 1281,
+      "2026-05-26": 1364,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1471,10 +1471,10 @@
     "slug": "nginx-static-files",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.84%",
     "time": 46,
     "timeDay": 179,
     "timeWeek": 137,
@@ -1490,7 +1490,7 @@
       "2026-05-16": 47,
       "2026-05-21": 111,
       "2026-05-20": 295,
-      "2026-05-26": 0
+      "2026-05-26": 83
     }
   }
 ]
