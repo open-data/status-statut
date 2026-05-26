@@ -4,16 +4,16 @@
     "url": "https://open.canada.ca",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "95.16%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "95.15%",
     "uptimeMonth": "98.13%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.81%",
     "time": 322,
     "timeDay": 368,
     "timeWeek": 353,
-    "timeMonth": 360,
+    "timeMonth": 366,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2025-10-18": 18,
@@ -24,7 +24,7 @@
       "2026-05-16": 19,
       "2026-05-21": 109,
       "2026-05-20": 296,
-      "2026-05-26": 82
+      "2026-05-26": 83
     }
   },
   {
@@ -32,16 +32,16 @@
     "url": "https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412",
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "98.14%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.77%",
     "time": 489,
     "timeDay": 622,
     "timeWeek": 727,
-    "timeMonth": 643,
+    "timeMonth": 650,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-06-12": 34,
@@ -56,7 +56,7 @@
       "2026-05-16": 19,
       "2026-05-21": 109,
       "2026-05-20": 296,
-      "2026-05-26": 82
+      "2026-05-26": 83
     }
   },
   {
@@ -73,8 +73,8 @@
     "time": 5630,
     "timeDay": 7770,
     "timeWeek": 9088,
-    "timeMonth": 9670,
-    "timeYear": 6610,
+    "timeMonth": 9939,
+    "timeYear": 6620,
     "dailyMinutesDown": {
       "2025-10-18": 49,
       "2025-10-19": 19,
@@ -177,8 +177,8 @@
     "time": 2107,
     "timeDay": 1443,
     "timeWeek": 6534,
-    "timeMonth": 3941,
-    "timeYear": 2669,
+    "timeMonth": 4057,
+    "timeYear": 2673,
     "dailyMinutesDown": {
       "2025-06-02": 23,
       "2025-06-11": 25,
@@ -253,8 +253,8 @@
     "time": 1687,
     "timeDay": 307,
     "timeWeek": 1459,
-    "timeMonth": 1860,
-    "timeYear": 1948,
+    "timeMonth": 1915,
+    "timeYear": 1952,
     "dailyMinutesDown": {
       "2025-06-02": 23,
       "2025-06-06": 25,
@@ -318,7 +318,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search",
     "status": "down",
-    "uptime": "45.70%",
+    "uptime": "45.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 1364,
+      "2026-05-26": 1428,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -702,7 +702,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search-details",
     "status": "down",
-    "uptime": "45.69%",
+    "uptime": "45.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -713,7 +713,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 1364,
+      "2026-05-26": 1428,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1094,10 +1094,10 @@
     "time": 232,
     "timeDay": 1240,
     "timeWeek": 345,
-    "timeMonth": 362,
+    "timeMonth": 371,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-05-26": 1364,
+      "2026-05-26": 1428,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1470,15 +1470,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "nginx-static-files",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "95.15%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.70%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.83%",
     "time": 46,
     "timeDay": 179,
     "timeWeek": 137,
-    "timeMonth": 133,
+    "timeMonth": 136,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2025-10-23": 26,
@@ -1490,7 +1490,7 @@
       "2026-05-16": 47,
       "2026-05-21": 111,
       "2026-05-20": 295,
-      "2026-05-26": 83
+      "2026-05-26": 147
     }
   }
 ]
