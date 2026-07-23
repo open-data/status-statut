@@ -64,17 +64,17 @@
     "url": "https://search.open.canada.ca/opendata",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "open-data-search",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.85%",
-    "time": 6223,
-    "timeDay": 296,
-    "timeWeek": 599,
-    "timeMonth": 6616,
-    "timeYear": 7349,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "98.82%",
+    "time": 6272,
+    "timeDay": 21319,
+    "timeWeek": 5817,
+    "timeMonth": 7698,
+    "timeYear": 7406,
     "dailyMinutesDown": {
       "2025-10-23": 26,
       "2025-10-24": 20,
@@ -162,7 +162,7 @@
       "2026-06-29": 5,
       "2026-06-28": 35,
       "2026-07-05": 54,
-      "2026-07-23": 6
+      "2026-07-23": 142
     }
   },
   {
@@ -322,7 +322,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 441,
+      "2026-07-23": 578,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -706,7 +706,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 441,
+      "2026-07-23": 578,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -1090,7 +1090,7 @@
     "timeMonth": 180,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2026-07-23": 441,
+      "2026-07-23": 578,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
