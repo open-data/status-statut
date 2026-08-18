@@ -64,17 +64,17 @@
     "url": "https://search.open.canada.ca/opendata",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "open-data-search",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "98.82%",
     "time": 6750,
-    "timeDay": 254,
-    "timeWeek": 654,
-    "timeMonth": 2169,
-    "timeYear": 6972,
+    "timeDay": 286,
+    "timeWeek": 620,
+    "timeMonth": 2115,
+    "timeYear": 6961,
     "dailyMinutesDown": {
       "2025-10-24": 20,
       "2025-10-25": 58,
@@ -162,7 +162,7 @@
       "2026-06-28": 35,
       "2026-07-05": 54,
       "2026-07-23": 142,
-      "2026-08-18": 1
+      "2026-08-18": 23
     }
   },
   {
@@ -235,17 +235,17 @@
     "url": "https://search.open.canada.ca/contracts/record/tbs-sct,Contracts-TBS-Historical-05257",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "contracts-search-details",
-    "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.18%",
     "time": 2084,
-    "timeDay": 156,
-    "timeWeek": 297,
-    "timeMonth": 308,
-    "timeYear": 2319,
+    "timeDay": 158,
+    "timeWeek": 281,
+    "timeMonth": 303,
+    "timeYear": 2315,
     "dailyMinutesDown": {
       "2025-08-19": 20,
       "2025-08-23": 19,
@@ -289,7 +289,7 @@
       "2026-05-25": 1145,
       "2026-05-27": 185,
       "2026-07-07": 199,
-      "2026-08-18": 1
+      "2026-08-18": 23
     }
   },
   {
@@ -309,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1009,
+      "2026-08-18": 1032,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -693,7 +693,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1009,
+      "2026-08-18": 1032,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1077,7 +1077,7 @@
     "timeMonth": 180,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2026-08-18": 1009,
+      "2026-08-18": 1032,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
