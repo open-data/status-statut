@@ -64,17 +64,17 @@
     "url": "https://search.open.canada.ca/opendata",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "open-data-search",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "79.28%",
-    "uptimeWeek": "96.95%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "98.77%",
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "79.55%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.74%",
     "time": 6820,
-    "timeDay": 17771,
-    "timeWeek": 5121,
-    "timeMonth": 1779,
-    "timeYear": 6457,
+    "timeDay": 11999,
+    "timeWeek": 4603,
+    "timeMonth": 1742,
+    "timeYear": 6446,
     "dailyMinutesDown": {
       "2025-10-25": 32,
       "2025-10-26": 21,
@@ -163,7 +163,7 @@
       "2026-07-23": 142,
       "2026-08-18": 23,
       "2026-09-04": 288,
-      "2026-09-05": 20
+      "2026-09-05": 208
     }
   },
   {
@@ -171,17 +171,17 @@
     "url": "https://search.open.canada.ca/contracts/",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "contracts-search",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "79.93%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.32%",
     "time": 2800,
-    "timeDay": 715,
-    "timeWeek": 671,
-    "timeMonth": 606,
-    "timeYear": 2814,
+    "timeDay": 563,
+    "timeWeek": 625,
+    "timeMonth": 595,
+    "timeYear": 2808,
     "dailyMinutesDown": {
       "2025-09-08": 35,
       "2025-09-26": 18,
@@ -222,7 +222,7 @@
       "2026-05-25": 1145,
       "2026-05-27": 185,
       "2026-09-04": 278,
-      "2026-09-05": 11
+      "2026-09-05": 199
     }
   },
   {
@@ -230,17 +230,17 @@
     "url": "https://search.open.canada.ca/contracts/record/tbs-sct,Contracts-TBS-Historical-05257",
     "icon": "https://icons.duckduckgo.com/ip3/search.open.canada.ca.ico",
     "slug": "contracts-search-details",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.26%",
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "86.83%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.23%",
     "time": 2096,
-    "timeDay": 534,
-    "timeWeek": 449,
-    "timeMonth": 333,
-    "timeYear": 2213,
+    "timeDay": 391,
+    "timeWeek": 424,
+    "timeMonth": 330,
+    "timeYear": 2209,
     "dailyMinutesDown": {
       "2025-09-08": 35,
       "2025-09-26": 18,
@@ -281,7 +281,7 @@
       "2026-05-27": 185,
       "2026-07-07": 199,
       "2026-08-18": 23,
-      "2026-09-05": 1
+      "2026-09-05": 190
     }
   },
   {
@@ -290,7 +290,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search",
     "status": "down",
-    "uptime": "40.02%",
+    "uptime": "40.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.54%",
     "uptimeMonth": "0.00%",
@@ -664,7 +664,7 @@
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
-      "2026-09-05": 379,
+      "2026-09-05": 572,
       "2026-09-04": 1407
     }
   },
@@ -674,7 +674,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.canada.ca.ico",
     "slug": "ati-search-details",
     "status": "down",
-    "uptime": "40.01%",
+    "uptime": "40.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.55%",
     "uptimeMonth": "0.00%",
@@ -1048,7 +1048,7 @@
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
-      "2026-09-05": 379,
+      "2026-09-05": 572,
       "2026-09-04": 1406
     }
   },
@@ -1069,7 +1069,7 @@
     "timeMonth": 215,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-09-05": 379,
+      "2026-09-05": 572,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
