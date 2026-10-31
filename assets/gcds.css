@@ -1,0 +1,159 @@
+/* GCDS-inspired Upptime theme. MIT. Works independently of the language add-on.
+ * Stable Upptime selectors only; no generated Svelte class names or site URLs.
+ * GCDS tokens: https://design-system.canada.ca/en/foundations/colour/
+ * Fonts: load Lato and Noto Sans separately, or use the system fallbacks below.
+ */
+:root {
+  color-scheme: light;
+  --gcds-text-primary: #333;
+  --gcds-text-secondary: #595959;
+  --gcds-link-default: #1f497a;
+  --gcds-link-hover: #1354ec;
+  --gcds-link-visited: #4b248f;
+  --gcds-bg-primary: #26374a;
+  --gcds-bg-light: #f2f2f2;
+  --gcds-border-default: #8c8c8c;
+  --gcds-focus-border: #1354ec;
+  --gcds-danger-text: #b3192e;
+  --gcds-theme-success: #005a30;
+  --gcds-theme-warning: #755300;
+  --gcds-theme-accent: #a62a1e;
+  --gcds-theme-width: 71.25rem;
+  --gcds-font-families-heading: 'Lato', Arial, sans-serif;
+  --gcds-font-families-body: 'Noto Sans', Arial, sans-serif;
+  --body-background-color: #fff;
+  --body-text-color: var(--gcds-text-primary);
+  --card-background-color: #fff;
+  --nav-background-color: #fff;
+  --nav-border-bottom-color: var(--gcds-bg-primary);
+  --nav-current-border-bottom-color: var(--gcds-theme-accent);
+  --card-border-color: #d9d9d9;
+  --down-border-left-color: var(--gcds-danger-text);
+  --down-background-color: #fbecee;
+  --degraded-border-left-color: var(--gcds-theme-warning);
+  --up-border-left-color: var(--gcds-theme-success);
+  --down-color-color: var(--gcds-text-primary);
+  --degraded-color-color: var(--gcds-text-primary);
+  --up-color-color: var(--gcds-text-primary);
+  --tag-color: #fff;
+  --tag-up-background-color: var(--gcds-theme-success);
+  --tag-down-background-color: var(--gcds-danger-text);
+  --tag-degraded-background-color: var(--gcds-theme-warning);
+  --change-background-color: #ebf2fa;
+  --error-button-border-color: var(--gcds-bg-primary);
+  --error-button-background-color: var(--gcds-bg-primary);
+  --error-button-color: #fff;
+  --submit-button-border-color: var(--gcds-bg-primary);
+  --submit-button-background-color: var(--gcds-bg-primary);
+  --submit-button-color: #fff;
+  --code-color: #333;
+  --code-background-color: #f2f2f2;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
+/* Extra specificity is intentional: Upptime loads global.css after themeUrl. */
+html body { font: 400 1.25rem/1.6 var(--gcds-font-families-body); padding-bottom: 0; }
+body #sapper .container { max-width: var(--gcds-theme-width); padding-inline: 2rem; }
+body #sapper main.container { padding-top: 2.5rem; padding-bottom: 3rem; min-height: 60vh; }
+body #sapper h1, body #sapper h2, body #sapper h3, body #sapper h4, body #sapper h5, body #sapper h6 {
+  font-family: var(--gcds-font-families-heading); font-weight: 700; color: var(--gcds-text-primary); opacity: 1;
+}
+body #sapper h1 { font-size: 2.56rem; line-height: 1.17; max-width: 30ch; margin-bottom: 1.5rem; }
+body #sapper h1::after { content: ''; display: block; width: 4.5rem; height: .375rem; background: var(--gcds-theme-accent); margin-top: 1.25rem; }
+body #sapper h2 { font-size: 2.44rem; line-height: 1.23; margin-bottom: 1.5rem; }
+body #sapper h3 { font-size: 1.81rem; line-height: 1.37; }
+body #sapper h4 { font-size: 1.69rem; line-height: 1.33; }
+body #sapper h5 { font-size: 1.5rem; } body #sapper h6 { font-size: 1.38rem; }
+body #sapper p { max-width: 65ch; }
+body #sapper header p.lead { font-size: 1.25rem; line-height: 1.6; }
+body #sapper main header { margin-bottom: 2.5rem; }
+body #sapper a { color: var(--gcds-link-default); text-decoration: underline; text-underline-offset: .15em; }
+body #sapper a:visited { color: var(--gcds-link-visited); }
+body #sapper a:hover { color: var(--gcds-link-hover); }
+body #sapper a:focus-visible, body #sapper button:focus-visible, body #sapper input:focus-visible,
+body #sapper select:focus-visible, body #sapper textarea:focus-visible {
+  outline: 3px solid var(--gcds-focus-border); outline-offset: 3px; border-radius: 2px;
+}
+body #sapper nav { padding: 0; margin-bottom: 0; border-bottom: .25rem solid var(--gcds-bg-primary); overflow: visible; white-space: normal; font-weight: 400; }
+body #sapper nav .container { display: flex; justify-content: space-between; align-items: center; min-height: 5rem; gap: 1.5rem; flex-wrap: wrap; }
+body #sapper nav .logo { display: flex; align-items: center; font-weight: 700; float: none; padding-block: 1.25rem; margin-right: 0; font-size: 1.25rem; }
+body #sapper nav .logo img { height: 2.5rem; border-radius: 0; }
+body #sapper nav ul { display: flex; list-style: none; margin: 0; padding: 0; align-items: center; flex-wrap: wrap; justify-content: flex-start; gap: 1.5rem; }
+body #sapper nav ul a { display: block; padding: 1rem 0; text-decoration: underline; }
+body #sapper article { border-radius: 0; padding: 1.5rem; box-shadow: none; }
+body #sapper article + article { margin-top: 1rem; }
+body #sapper article.up, body #sapper article.down, body #sapper article.degraded { border-left-width: .375rem; }
+/* Draw the operational marker without depending on an installed emoji font. */
+html[data-gcds-language] body #sapper main > article.up::before {
+  content: ''; display: inline-block; width: .7rem; height: .35rem;
+  border-left: 3px solid var(--gcds-theme-success); border-bottom: 3px solid var(--gcds-theme-success);
+  transform: rotate(-45deg); margin-right: .8rem; vertical-align: .15rem;
+}
+body #sapper article.graph { background-size: auto 65%; }
+body #sapper article.graph > div { font-size: 1.125rem; color: var(--gcds-text-secondary); }
+body #sapper article.graph h4 { margin-bottom: .75rem; }
+body #sapper article.graph a { text-decoration: underline; }
+body #sapper article.link:focus-within { outline: 3px solid var(--gcds-focus-border); outline-offset: 3px; }
+body #sapper .tag { font-size: 1rem; font-weight: 700; border-radius: 2px; }
+body #sapper .f { gap: 1rem; }
+body #sapper .f > h2 { margin-top: 1rem; }
+body #sapper .r { flex-wrap: wrap; }
+body #sapper .r > div { position: relative; }
+/* Restore native keyboard-operable radios hidden by the stock component. */
+body #sapper form.r input[type='radio'] { display: inline-block; appearance: auto; margin-right: .5rem; width: 1.15rem; height: 1.15rem; accent-color: var(--gcds-link-default); }
+body #sapper form.r label { margin-left: 0; cursor: pointer; font-size: 1.125rem; }
+body #sapper form.r input:checked + label { text-decoration: underline; text-underline-offset: .25em; }
+body #sapper .data { font-variant-numeric: tabular-nums; }
+body #sapper main ~ footer { background: var(--gcds-bg-light); border-top: 1px solid #d9d9d9; padding: 2rem; margin-top: 0; text-align: left; opacity: 1; font-size: 1.125rem; }
+body #sapper main ~ footer p { max-width: var(--gcds-theme-width); margin: 0 auto; }
+body #sapper .error-button, body #sapper .submit-button { display: inline-block; border-radius: .25rem; padding: .65rem 1.25rem; font: inherit; font-weight: 700; }
+/* Keep button text readable in every link state, including visited links. */
+body #sapper a.error-button, body #sapper a.error-button:visited, body #sapper a.error-button:hover,
+body #sapper a.submit-button, body #sapper a.submit-button:visited, body #sapper a.submit-button:hover {
+  color: #fff; background: var(--gcds-bg-primary);
+}
+body #sapper .gcds-language-header { background: #fff; }
+body #sapper .gcds-language-header .container { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 3.5rem; }
+body #sapper .gcds-language-link { margin-left: auto; font-size: 1.125rem; padding-block: .5rem; }
+body #sapper .gcds-skip-link { position: absolute; top: .5rem; left: -10000px; z-index: 100; background: #fff; padding: .5rem 1rem; }
+body #sapper .gcds-skip-link:focus { left: 1rem; }
+body #sapper .gcds-language-announcement { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+@media (max-width: 47.99rem) {
+  html body { font-size: 1.125rem; }
+  body #sapper .container { padding-inline: 1rem; }
+  body #sapper main.container { padding-top: 2rem; }
+  body #sapper h1 { font-size: 2.31rem; } body #sapper h2 { font-size: 2.19rem; } body #sapper h3 { font-size: 1.625rem; } body #sapper h4 { font-size: 1.375rem; }
+  body #sapper nav .container { gap: 0; align-items: flex-start; flex-direction: column; padding-bottom: .75rem; }
+  body #sapper nav .logo { padding-block: .75rem; }
+  body #sapper nav ul { gap: 1.5rem; }
+  body #sapper nav ul a { padding-block: .5rem; }
+  body #sapper article { padding: 1.125rem; overflow-wrap: anywhere; }
+  body #sapper article.graph { background-image: none; }
+  body #sapper main ~ footer { padding: 1.5rem 1rem; }
+}
+@media (prefers-reduced-motion: reduce) { body #sapper *, body #sapper *::before, body #sapper *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
+@media print { body #sapper .gcds-language-header, body #sapper nav, body #sapper .gcds-skip-link, body #sapper form.r { display: none; } body #sapper main.container { max-width: none; padding: 0; } body #sapper article { break-inside: avoid; } }
+
+/* Optional branding comes from customBodyHtml/customFootHtml, never site URLs here. */
+body #sapper .gcds-brand-header .container { min-height: 6rem; padding-block: 1.25rem; }
+body #sapper .gcds-signature { display: block; line-height: 0; flex: 0 1 20rem; min-width: 0; }
+body #sapper .gcds-signature img { display: block; width: 100%; height: auto; }
+body #sapper [data-gcds-language-slot] { flex: 0 0 auto; }
+body #sapper .gcds-brand-footer { background: var(--gcds-bg-light); padding-bottom: 2rem; }
+body #sapper .gcds-brand-footer .container { display: flex; justify-content: flex-end; }
+body #sapper .gcds-brand-footer img { display: block; width: 8.9375rem; height: auto; }
+body #sapper .gcds-history-back { margin-top: 2rem; text-align: left; }
+@media (max-width: 47.99rem) {
+  body #sapper .gcds-brand-header .container { min-height: 5rem; gap: 1rem; }
+  body #sapper .gcds-signature { flex-basis: 20rem; }
+  body #sapper .gcds-brand-footer { padding-bottom: 1.5rem; }
+}
+
+/* Optional breadcrumb/footer layout selected by the configured brand header. */
+body #sapper [data-gcds-breadcrumb-header] { border-bottom: .25rem solid var(--gcds-bg-primary); }
+body #sapper nav[data-gcds-breadcrumbs] { border: 0; padding-block: 1.25rem 0; }
+body #sapper nav[data-gcds-breadcrumbs] .container { min-height: 0; padding-bottom: 0; }
+body #sapper nav[data-gcds-breadcrumbs] .logo { padding: 0; font-size: 1.125rem; font-weight: 400; }
+body #sapper nav[data-gcds-breadcrumbs] ul:empty { display: none; }
+body #sapper nav[data-gcds-breadcrumbs] + main { padding-top: 1.5rem; }
+body #sapper main ~ footer .gcds-repository-link { margin-top: .75rem; }
