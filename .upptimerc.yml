@@ -15,10 +15,16 @@ sites:
     url: https://search.open.canada.ca/contracts/record/tbs-sct,Contracts-TBS-Historical-05257
   - name: ATI Search
     url: https://open.canada.ca/en/search/ati
+    type: globalping
+    location: Ottawa+Canada
   - name: ATI Search details
     url: https://open.canada.ca/en/search/ati/reference/0c9449bde99814b30ee8e467528b2fac
-  - name: CKAN SQL API
-    url: https://open.canada.ca/data/en/api/3/action/datastore_search_sql?sql=SELECT%20%27uptime%27
+    type: globalping
+    location: Ottawa+Canada
+  - name: Open Maps
+    url: https://open.canada.ca/openmap/en.html#05586948-c5ac-4de9-b9ef-a31020b0dc43
+  - name: CKAN Datastore API
+    url: https://open.canada.ca/data/en/api/3/action/datastore_search?resource_id=grants
   - name: NGINX Static Files
     url: https://open.canada.ca/GCWeb/assets/sig-blk-en.svg
 
@@ -27,39 +33,64 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status-statut
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Open Government Portal / Portail du gouvernement ouvert"
-  introMessage: This is a sample status page which uses **real-time** data.
-  navbar:
-    - title: Status
-      href: https://open-data.github.io/status-statut/
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-  theme: dark
+  name: Service status / État des services
+  hideNavLogo: true
+  favicon: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/favicon-mobile.png
+  customHeadHtml: |
+    <link rel="icon" type="image/x-icon" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/favicon.ico" data-gcds-favicon>
+  customBodyHtml: |
+    <header class="gcds-brand-header" data-gcds-brand-header data-gcds-breadcrumb-header data-gcds-repository-footer>
+      <div class="container">
+        <a class="gcds-signature" href="https://www.canada.ca/">
+          <img src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/sig-blk-en.svg" alt="Government of Canada / Gouvernement du Canada" width="819" height="76">
+        </a>
+        <div data-gcds-language-slot></div>
+      </div>
+    </header>
+    <template data-gcds-brand-footer>
+      <div class="gcds-brand-footer">
+        <div class="container">
+          <img src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/wmms-blk.svg" alt="Canada" width="143" height="34">
+        </div>
+      </div>
+    </template>
+  introTitle: "Open.Canada.ca System Status / État des systèmes d’Open.Canada.ca"
+  introMessage: Availability and response times for Open Government services. / Disponibilité et temps de réponse des services du gouvernement ouvert.
+  navbar: []
+  theme: light
+  themeUrl: https://open-data.github.io/status-statut/gcds.css
+  scripts:
+    - src: /status-statut/gcds-i18n.js
+      async: true
+  links:
+    - rel: stylesheet
+      href: https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Noto+Sans:wght@400;700&display=swap
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 i18n:
+  locale: en-CA
   activeIncidents: Active Incidents / Incidents actifs
   allSystemsOperational: All systems are operational / Tous les systèmes sont opérationnels
   incidentReport: "Incident #$NUMBER report / Rapport d'incident #$NUMBER →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts / Ouvert à $DATE avec des postes $POSTS
+  activeIncidentSummary: Opened at $DATE with $POSTS posts / Ouvert à $DATE avec $POSTS messages
   incidentTitle: Incident $NUMBER Details / Détails de l'incident $NUMBER
   incidentDetails: Incident Details / Détails de l'incident
-  incidentFixed: Fixed / Fixé
+  incidentFixed: Fixed / Résolu
   incidentOngoing: Ongoing / En cours
   incidentOpenedAt: Opened at / Ouvert à
-  incidentClosedAt: Closed at / Fermé à
+  incidentClosedAt: Closed at / Fermé le
   incidentViewOnGitHub: View and Subscribe on GitHub / Voir et s'abonner sur GitHub
   incidentCommentSummary: Posted at $DATE by $AUTHOR / Posté à $DATE par $AUTHOR
   incidentBack: ← Back to all incidents / Retour à tous les incidents
+  historyBack: ← Back to all services / ← Retour à tous les services
   pastIncidents: Past Incidents / Incidents passés
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts / Résolu en $MINUTES minutes avec les messages $POSTS
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts / Résolu en $MINUTES minutes avec $POSTS messages
   liveStatus: Live Status / Statut en direct
-  overallUptime: "Overall uptime / Temps de fonctionnement global: $UPTIME"
+  overallUptime: "Overall uptime: / Disponibilité globale : $UPTIME"
   overallUptimeTitle: Overall uptime / Temps de fonctionnement global
-  averageResponseTime: "Average response time / Temps de réponse moyen : $TIMEms"
+  averageResponseTime: "Average response time: / Temps de réponse moyen : $TIMEms"
   averageResponseTimeTitle: Average response / Réponse moyenne
   sevelDayResponseTime: 7-day response time / Délai de réponse de 7 jours
   responseTimeMs: Response time (ms) / Temps de réponse (ms)
@@ -78,3 +109,24 @@ i18n:
   durationMin: $DURATION minutes
   incidentCompleted: Completed / Complété
   incidentScheduled: Scheduled / Programmé
+  duration24H: "24 hours / 24 heures"
+  duration7D: "7 days / 7 jours"
+  duration30D: "30 days / 30 jours"
+  duration1Y: "1 year / 1 an"
+  durationAll: "All time / Depuis le début"
+  errorTitle: "An error occurred / Une erreur est survenue"
+  errorIntro: "An error occurred in trying to get the latest status details. / Une erreur est survenue lors du chargement des dernières données."
+  errorText: "You can try again in a few moments. / Réessayez dans quelques instants."
+  errorHome: "Go to the homepage / Aller à la page d’accueil"
+  rateLimitExceededTitle: "Rate limit exceeded / Limite de requêtes atteinte"
+  rateLimitExceededIntro: "You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website. / Vous avez atteint la limite horaire de requêtes. Patientez avant de réessayer ou ajoutez un jeton d’accès personnel GitHub."
+  rateLimitExceededWhatDoesErrorMean: "What does this error mean? / Que signifie cette erreur?"
+  rateLimitExceededErrorMeaning: "This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed. / Ce site utilise l’API GitHub pour obtenir les données de disponibilité. Vous avez utilisé les 60 requêtes par heure autorisées pour votre adresse IP."
+  rateLimitExceededErrorHowCanFix: "How can I fix it? / Comment résoudre ce problème?"
+  rateLimitExceededErrorFix: "You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour. / Attendez le rétablissement de votre limite horaire ou ajoutez un jeton d’accès personnel GitHub pour augmenter la limite de requêtes."
+  rateLimitExceededGeneratePAT: "Learn how to generate a Personal Access Token / Comment créer un jeton d’accès personnel"
+  rateLimitExceededHasSet: "You have a personal access token set. / Un jeton d’accès personnel est enregistré."
+  rateLimitExceededRemoveToken: "Remove token / Supprimer le jeton"
+  rateLimitExceededGitHubPAT: "GitHub Personal Access Token / Jeton d’accès personnel GitHub"
+  rateLimitExceededCopyPastePAT: "Copy and paste your token / Copiez et collez votre jeton"
+  rateLimitExceededSaveToken: "Save token / Enregistrer le jeton"

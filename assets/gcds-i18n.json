@@ -1,0 +1,380 @@
+{
+  "defaultLanguage": "en",
+  "messages": [
+    {
+      "source": "You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website. / Vous avez atteint la limite horaire de requêtes. Patientez avant de réessayer ou ajoutez un jeton d’accès personnel GitHub.",
+      "en": "You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.",
+      "fr": "Vous avez atteint la limite horaire de requêtes. Patientez avant de réessayer ou ajoutez un jeton d’accès personnel GitHub."
+    },
+    {
+      "source": "This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed. / Ce site utilise l’API GitHub pour obtenir les données de disponibilité. Vous avez utilisé les 60 requêtes par heure autorisées pour votre adresse IP.",
+      "en": "This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.",
+      "fr": "Ce site utilise l’API GitHub pour obtenir les données de disponibilité. Vous avez utilisé les 60 requêtes par heure autorisées pour votre adresse IP."
+    },
+    {
+      "source": "You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour. / Attendez le rétablissement de votre limite horaire ou ajoutez un jeton d’accès personnel GitHub pour augmenter la limite de requêtes.",
+      "en": "You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.",
+      "fr": "Attendez le rétablissement de votre limite horaire ou ajoutez un jeton d’accès personnel GitHub pour augmenter la limite de requêtes."
+    },
+    {
+      "source": "Availability and response times for Open Government services. / Disponibilité et temps de réponse des services du gouvernement ouvert.",
+      "en": "Availability and response times for Open Government services.",
+      "fr": "Disponibilité et temps de réponse des services du gouvernement ouvert."
+    },
+    {
+      "source": "An error occurred in trying to get the latest status details. / Une erreur est survenue lors du chargement des dernières données.",
+      "en": "An error occurred in trying to get the latest status details.",
+      "fr": "Une erreur est survenue lors du chargement des dernières données."
+    },
+    {
+      "source": "Resolved in $MINUTES minutes with $POSTS posts / Résolu en $MINUTES minutes avec $POSTS messages",
+      "en": "Resolved in $MINUTES minutes with $POSTS posts",
+      "fr": "Résolu en $MINUTES minutes avec $POSTS messages"
+    },
+    {
+      "source": "Learn how to generate a Personal Access Token / Comment créer un jeton d’accès personnel",
+      "en": "Learn how to generate a Personal Access Token",
+      "fr": "Comment créer un jeton d’accès personnel"
+    },
+    {
+      "source": "You have a personal access token set. / Un jeton d’accès personnel est enregistré.",
+      "en": "You have a personal access token set.",
+      "fr": "Un jeton d’accès personnel est enregistré."
+    },
+    {
+      "source": "Treasury Board of Canada Secretariat / Secrétariat du Conseil du Trésor du Canada",
+      "en": "Treasury Board of Canada Secretariat",
+      "fr": "Secrétariat du Conseil du Trésor du Canada"
+    },
+    {
+      "source": "Started at $DATE for $DURATION minutes / Démarré à $DATE pour $DURATION minutes",
+      "en": "Started at $DATE for $DURATION minutes",
+      "fr": "Démarré à $DATE pour $DURATION minutes"
+    },
+    {
+      "source": "Starts at $DATE for $DURATION minutes / Commence à $DATE pour $DURATION minutes",
+      "en": "Starts at $DATE for $DURATION minutes",
+      "fr": "Commence à $DATE pour $DURATION minutes"
+    },
+    {
+      "source": "Opened at $DATE with $POSTS posts / Ouvert à $DATE avec $POSTS messages",
+      "en": "Opened at $DATE with $POSTS posts",
+      "fr": "Ouvert à $DATE avec $POSTS messages"
+    },
+    {
+      "source": "You can try again in a few moments. / Réessayez dans quelques instants.",
+      "en": "You can try again in a few moments.",
+      "fr": "Réessayez dans quelques instants."
+    },
+    {
+      "source": "All systems are operational / Tous les systèmes sont opérationnels",
+      "en": "All systems are operational",
+      "fr": "Tous les systèmes sont opérationnels"
+    },
+    {
+      "source": "Open.Canada.ca System Status / État des systèmes d’Open.Canada.ca",
+      "en": "Open.Canada.ca System Status",
+      "fr": "État des systèmes d’Open.Canada.ca"
+    },
+    {
+      "source": "GitHub Personal Access Token / Jeton d’accès personnel GitHub",
+      "en": "GitHub Personal Access Token",
+      "fr": "Jeton d’accès personnel GitHub"
+    },
+    {
+      "source": "View and Subscribe on GitHub / Voir et s'abonner sur GitHub",
+      "en": "View and Subscribe on GitHub",
+      "fr": "Voir et s'abonner sur GitHub"
+    },
+    {
+      "source": "Past Scheduled Maintenance / Maintenance programmée passée",
+      "en": "Past Scheduled Maintenance",
+      "fr": "Maintenance programmée passée"
+    },
+    {
+      "source": "Average response time: / Temps de réponse moyen : $TIMEms",
+      "en": "Average response time: $TIMEms",
+      "fr": "Temps de réponse moyen : $TIMEms"
+    },
+    {
+      "source": "Incident #$NUMBER report / Rapport d'incident #$NUMBER →",
+      "en": "Incident #$NUMBER report",
+      "fr": "Rapport d'incident #$NUMBER →"
+    },
+    {
+      "source": "Incident $NUMBER Details / Détails de l'incident $NUMBER",
+      "en": "Incident $NUMBER Details",
+      "fr": "Détails de l'incident $NUMBER"
+    },
+    {
+      "source": "Copy and paste your token / Copiez et collez votre jeton",
+      "en": "Copy and paste your token",
+      "fr": "Copiez et collez votre jeton"
+    },
+    {
+      "source": "What does this error mean? / Que signifie cette erreur?",
+      "en": "What does this error mean?",
+      "fr": "Que signifie cette erreur?"
+    },
+    {
+      "source": "Posted at $DATE by $AUTHOR / Posté à $DATE par $AUTHOR",
+      "en": "Posted at $DATE by $AUTHOR",
+      "fr": "Posté à $DATE par $AUTHOR"
+    },
+    {
+      "source": "← Back to all incidents / Retour à tous les incidents",
+      "en": "← Back to all incidents",
+      "fr": "Retour à tous les incidents"
+    },
+    {
+      "source": "← Back to all services / ← Retour à tous les services",
+      "en": "← Back to all services",
+      "fr": "← Retour à tous les services"
+    },
+    {
+      "source": "Average response time: / Temps de réponse moyen : ",
+      "en": "Average response time: ",
+      "fr": "Temps de réponse moyen : "
+    },
+    {
+      "source": "Overall uptime: / Disponibilité globale : $UPTIME",
+      "en": "Overall uptime: $UPTIME",
+      "fr": "Disponibilité globale : $UPTIME"
+    },
+    {
+      "source": "7-day response time / Délai de réponse de 7 jours",
+      "en": "7-day response time",
+      "fr": "Délai de réponse de 7 jours"
+    },
+    {
+      "source": "Rate limit exceeded / Limite de requêtes atteinte",
+      "en": "Rate limit exceeded",
+      "fr": "Limite de requêtes atteinte"
+    },
+    {
+      "source": "How can I fix it? / Comment résoudre ce problème?",
+      "en": "How can I fix it?",
+      "fr": "Comment résoudre ce problème?"
+    },
+    {
+      "source": "Overall uptime / Temps de fonctionnement global",
+      "en": "Overall uptime",
+      "fr": "Temps de fonctionnement global"
+    },
+    {
+      "source": "Scheduled Maintenance / Maintenance programmée",
+      "en": "Scheduled Maintenance",
+      "fr": "Maintenance programmée"
+    },
+    {
+      "source": "Go to the homepage / Aller à la page d’accueil",
+      "en": "Go to the homepage",
+      "fr": "Aller à la page d’accueil"
+    },
+    {
+      "source": "Government of Canada / Gouvernement du Canada",
+      "en": "Government of Canada",
+      "fr": "Gouvernement du Canada"
+    },
+    {
+      "source": "An error occurred / Une erreur est survenue",
+      "en": "An error occurred",
+      "fr": "Une erreur est survenue"
+    },
+    {
+      "source": "Overall uptime: / Disponibilité globale : ",
+      "en": "Overall uptime: ",
+      "fr": "Disponibilité globale : "
+    },
+    {
+      "source": "Response time (ms) / Temps de réponse (ms)",
+      "en": "Response time (ms)",
+      "fr": "Temps de réponse (ms)"
+    },
+    {
+      "source": "Incident Details / Détails de l'incident",
+      "en": "Incident Details",
+      "fr": "Détails de l'incident"
+    },
+    {
+      "source": "Active Incidents / Incidents actifs",
+      "en": "Active Incidents",
+      "fr": "Incidents actifs"
+    },
+    {
+      "source": "Average response / Réponse moyenne",
+      "en": "Average response",
+      "fr": "Réponse moyenne"
+    },
+    {
+      "source": "Service status / État des services",
+      "en": "Service status",
+      "fr": "État des services"
+    },
+    {
+      "source": "Past Incidents / Incidents passés",
+      "en": "Past Incidents",
+      "fr": "Incidents passés"
+    },
+    {
+      "source": "Remove token / Supprimer le jeton",
+      "en": "Remove token",
+      "fr": "Supprimer le jeton"
+    },
+    {
+      "source": "Save token / Enregistrer le jeton",
+      "en": "Save token",
+      "fr": "Enregistrer le jeton"
+    },
+    {
+      "source": "Live Status / Statut en direct",
+      "en": "Live Status",
+      "fr": "Statut en direct"
+    },
+    {
+      "source": "All time / Depuis le début",
+      "en": "All time",
+      "fr": "Depuis le début"
+    },
+    {
+      "source": "Contracts Search details",
+      "en": "Contracts Search details",
+      "fr": "Détails d’un contrat"
+    },
+    {
+      "source": "Started at / Commencé à",
+      "en": "Started at",
+      "fr": "Commencé à"
+    },
+    {
+      "source": "Starts at / Commence à",
+      "en": "Starts at",
+      "fr": "Commence à"
+    },
+    {
+      "source": "Scheduled / Programmé",
+      "en": "Scheduled",
+      "fr": "Programmé"
+    },
+    {
+      "source": "Opened at / Ouvert à",
+      "en": "Opened at",
+      "fr": "Ouvert à"
+    },
+    {
+      "source": "Closed at / Fermé le",
+      "en": "Closed at",
+      "fr": "Fermé le"
+    },
+    {
+      "source": "Degraded / Détérioré",
+      "en": "Degraded",
+      "fr": "Détérioré"
+    },
+    {
+      "source": "Loading / Chargement",
+      "en": "Loading",
+      "fr": "Chargement"
+    },
+    {
+      "source": "Completed / Complété",
+      "en": "Completed",
+      "fr": "Complété"
+    },
+    {
+      "source": "24 hours / 24 heures",
+      "en": "24 hours",
+      "fr": "24 heures"
+    },
+    {
+      "source": "Ongoing / En cours",
+      "en": "Ongoing",
+      "fr": "En cours"
+    },
+    {
+      "source": "30 days / 30 jours",
+      "en": "30 days",
+      "fr": "30 jours"
+    },
+    {
+      "source": "ATI Search details",
+      "en": "ATI Search details",
+      "fr": "Détails d’une demande d’accès à l’information"
+    },
+    {
+      "source": "CKAN Datastore API",
+      "en": "CKAN Datastore API",
+      "fr": "API Datastore CKAN"
+    },
+    {
+      "source": "NGINX Static Files",
+      "en": "NGINX Static Files",
+      "fr": "Fichiers statiques NGINX"
+    },
+    {
+      "source": "Up / Opérationnel",
+      "en": "Up",
+      "fr": "Opérationnel"
+    },
+    {
+      "source": "Duration / Durée",
+      "en": "Duration",
+      "fr": "Durée"
+    },
+    {
+      "source": "7 days / 7 jours",
+      "en": "7 days",
+      "fr": "7 jours"
+    },
+    {
+      "source": "Open Data Search",
+      "en": "Open Data Search",
+      "fr": "Recherche de données ouvertes"
+    },
+    {
+      "source": "Contracts Search",
+      "en": "Contracts Search",
+      "fr": "Recherche de contrats"
+    },
+    {
+      "source": "Down / En panne",
+      "en": "Down",
+      "fr": "En panne"
+    },
+    {
+      "source": "Fixed / Résolu",
+      "en": "Fixed",
+      "fr": "Résolu"
+    },
+    {
+      "source": "1 year / 1 an",
+      "en": "1 year",
+      "fr": "1 an"
+    },
+    {
+      "source": "ATI Search",
+      "en": "ATI Search",
+      "fr": "Recherche d’accès à l’information"
+    },
+    {
+      "source": "Open Maps",
+      "en": "Open Maps",
+      "fr": "Cartes ouvertes"
+    },
+    {
+      "source": "Portal",
+      "en": "Portal",
+      "fr": "Portail"
+    },
+    {
+      "source": "ms",
+      "en": "ms",
+      "fr": "ms"
+    }
+  ],
+  "repositoryUrl": "https://github.com/open-data/status-statut",
+  "historyBack": {
+    "en": "← Back to all services",
+    "fr": "← Retour à tous les services"
+  }
+}

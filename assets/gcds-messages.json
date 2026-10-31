@@ -1,0 +1,52 @@
+[
+  {
+    "source": "Portal",
+    "en": "Portal",
+    "fr": "Portail"
+  },
+  {
+    "source": "Open Data Search",
+    "en": "Open Data Search",
+    "fr": "Recherche de données ouvertes"
+  },
+  {
+    "source": "Contracts Search",
+    "en": "Contracts Search",
+    "fr": "Recherche de contrats"
+  },
+  {
+    "source": "Contracts Search details",
+    "en": "Contracts Search details",
+    "fr": "Détails d’un contrat"
+  },
+  {
+    "source": "ATI Search",
+    "en": "ATI Search",
+    "fr": "Recherche d’accès à l’information"
+  },
+  {
+    "source": "ATI Search details",
+    "en": "ATI Search details",
+    "fr": "Détails d’une demande d’accès à l’information"
+  },
+  {
+    "source": "Open Maps",
+    "en": "Open Maps",
+    "fr": "Cartes ouvertes"
+  },
+  {
+    "source": "CKAN Datastore API",
+    "en": "CKAN Datastore API",
+    "fr": "API Datastore CKAN"
+  },
+  {
+    "source": "NGINX Static Files",
+    "en": "NGINX Static Files",
+    "fr": "Fichiers statiques NGINX"
+  },
+  {
+    "source": "Government of Canada / Gouvernement du Canada",
+    "en": "Government of Canada",
+    "fr": "Gouvernement du Canada"
+  }
+]
