@@ -140,7 +140,14 @@
           repository = document.createElement('p');
           repository.className = 'gcds-repository-link';
           const link = document.createElement('a');
-          link.textContent = 'GitHub';
+          const icon = document.createElement('img');
+          icon.className = 'gcds-repository-icon';
+          icon.src = new URL('gcds-github.svg', assetURL).href;
+          icon.alt = '';
+          icon.width = 20;
+          icon.height = 20;
+          icon.setAttribute('aria-hidden', 'true');
+          link.append(icon, document.createTextNode('GitHub'));
           link.href = repositoryUrl;
           repository.append(link);
           footer.append(repository);

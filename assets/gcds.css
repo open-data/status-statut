@@ -157,3 +157,6 @@ body #sapper nav[data-gcds-breadcrumbs] .logo { padding: 0; font-size: 1.125rem;
 body #sapper nav[data-gcds-breadcrumbs] ul:empty { display: none; }
 body #sapper nav[data-gcds-breadcrumbs] + main { padding-top: 1.5rem; }
 body #sapper main ~ footer .gcds-repository-link { margin-top: .75rem; }
+
+body #sapper .gcds-repository-link a { display: inline-flex; align-items: center; gap: .4rem; font-weight: 700; }
+body #sapper .gcds-repository-icon { display: block; flex: none; width: 1.25rem; height: 1.25rem; }

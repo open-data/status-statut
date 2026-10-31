@@ -24,7 +24,6 @@ sites:
   - name: Open Maps
     url: https://open.canada.ca/openmap/en.html#05586948-c5ac-4de9-b9ef-a31020b0dc43
   - name: CKAN Datastore API
-    slug: ckan-sql-api
     url: https://open.canada.ca/data/en/api/3/action/datastore_search?resource_id=grants
   - name: NGINX Static Files
     url: https://open.canada.ca/GCWeb/assets/sig-blk-en.svg
