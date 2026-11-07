@@ -1,7 +1,7 @@
 url: https://open.canada.ca/en/search/ati
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-07T14:55:11.029Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2026-11-07T19:05:08.447Z
 startTime: 2024-06-13T17:01:21.512Z
 generator: Upptime <https://github.com/upptime/upptime>
