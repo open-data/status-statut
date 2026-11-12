@@ -160,3 +160,6 @@ body #sapper main ~ footer .gcds-repository-link { margin-top: .75rem; }
 
 body #sapper .gcds-repository-link a { display: inline-flex; align-items: center; gap: .4rem; font-weight: 700; }
 body #sapper .gcds-repository-icon { display: block; flex: none; width: 1.25rem; height: 1.25rem; }
+
+body #sapper .gcds-public-data-notice { max-width: none; font-size: 1rem; color: var(--gcds-text-secondary); margin: 0 0 1.5rem; }
+body #sapper .gcds-public-data-notice.stale { border-left: .25rem solid var(--gcds-theme-warning); background: #fff8df; padding: 1rem; color: #333; }
