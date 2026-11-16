@@ -37,6 +37,7 @@ status-website:
   hideNavLogo: true
   favicon: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/favicon-mobile.png
   customHeadHtml: |
+    <script src="/status-statut/gcds-public-data.js" data-repository="open-data/status-statut"></script>
     <link rel="icon" type="image/x-icon" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/favicon.ico" data-gcds-favicon>
   customBodyHtml: |
     <header class="gcds-brand-header" data-gcds-brand-header data-gcds-breadcrumb-header data-gcds-repository-footer>
@@ -57,6 +58,8 @@ status-website:
   introTitle: "Open.Canada.ca System Status / État des systèmes d’Open.Canada.ca"
   introMessage: Availability and response times for Open Government services. / Disponibilité et temps de réponse des services du gouvernement ouvert.
   navbar: []
+  productionCacheTime: 1
+  localhostCacheTime: 1
   theme: light
   themeUrl: https://open-data.github.io/status-statut/gcds.css
   scripts:
